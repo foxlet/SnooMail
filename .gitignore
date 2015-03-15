@@ -1,0 +1,13 @@
+persist
+gitflow
+*.db
+*.log
+.*.swp
+__pycache__
+*.pyc
+*.orig
+.project
+.geany
+*.sublime-project
+*.sublime-workspace
+.idea/
