@@ -1,2 +1,2 @@
 # SnooMail
-This repository sits empty.
+This repository sat empty.
