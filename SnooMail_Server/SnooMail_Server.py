@@ -22,6 +22,9 @@ def send_msg():
 
     return data.text
 
+@app.route('/receive', methods=['POST'])
+def recv_msg():
+    id_no = 'test'
 
 if __name__ == '__main__':
     app.run()
